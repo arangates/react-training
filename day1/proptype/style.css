@@ -1,0 +1,22 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px dotted black;
+    padding: 20px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.box--small {
+    height: 100px;
+    width: 100px;
+}
+.box--medium {
+    height: 200px;
+    width: 200px;
+}
+.box--large {
+    height: 400px;
+    width: 400px;
+}
